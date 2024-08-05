@@ -1,7 +1,7 @@
 # Autofill Phishing
 
 # Try it yourself!
-https://autofill.netlify.app
+https://autofill-danger.vercel.app
 
 
 ## Overview
